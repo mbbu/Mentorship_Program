@@ -20,7 +20,9 @@ Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 
 ## Peer Mentorship Groups can be accessed on the following [link]()
 
-## The speakers biographies and presentations can be accessed [here](https://github.com/mbbu/Mentorship_Program/blob/main/Speakers_Bio_Presentations.md)
+## The speakers biographies and presentations can be accessed [here](https://github.com/mbbu/Mentorship_Program/blob/main/Speakers_Profiles.md)
+
+## Find the meeting link [here](https://teams.microsoft.com/l/meetup-join/19%3a6887c23962c248a89124009c0cef2fe9%40thread.tacv2/1634224213244?context=%7b%22Tid%22%3a%22a4e98fb5-57d9-4b97-b7b2-60ab87e9a234%22%2c%22Oid%22%3a%226c8af0b1-c61b-49ce-9ee9-2dbbcb9d6bed%22%7d)
 
 
 

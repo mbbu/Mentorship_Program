@@ -12,6 +12,7 @@ Schedule
 Date (MM-DD-YYYY)| Presentation | Speaker(s)
 :---: | :---: | :--- 
 06-01-2022| *Treacher Collins Syndrome: a clinical and molecular study based on a large series of patients* | Vincent et.al
+06-01-2022| *Treacher Collins Syndrome: a clinical and molecular study based on a large series of patients* | Vincent et.al
 
 ---
 

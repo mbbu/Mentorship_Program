@@ -18,7 +18,7 @@ Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 
 ---
 
-## Peer Mentorship Groups can be accessed on the following [link]()
+## Peer Mentorship Groups can be accessed on the following [link](https://github.com/mbbu/Mentorship_Program/blob/main/Peer-Mentorship-Groups.md)
 
 ## The speakers biographies and presentations can be accessed [here](https://github.com/mbbu/Mentorship_Program/blob/main/Speakers_Profiles.md)
 

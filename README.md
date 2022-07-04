@@ -13,13 +13,12 @@ Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 :---: | :---: | :--- | :---
 08-06-2022 & 10-06-2022 | *June Meetup* | Dr. Caleb Kibet, Pauline Karega, Ruth Nanjala | 
 01-07-2022| *My Science Journey Seminar* | Collins Moringa, Biigba Bright, Winfred Gatua | Ruth Nanjala
-08-07-2022| *My Science Journey Seminar* | Collins Moringa, Biigba Bright, Winfred Gatua | Ruth Nanjala
+08-07-2022| *My Science Journey Seminar* | Toheeb Balogun, Ayomide Mary, Alfred Ssekagiri,  Dr. Ovokeraye Oduaran | Ruth Nanjala
 
 ---
 
-
-
-
+Peer Mentorship Groups can be accessed on the following [link]()
+The speakers biographies and presentations can be accessed [here]()
 
 
 

@@ -9,10 +9,11 @@ We will be holding quarterly meetings and if need be monthly meetings to catch u
 
 Schedule
 ---
-Date (MM-DD-YYYY)| Presentation | Speaker(s)
-:---: | :---: | :--- 
-06-01-2022| *Treacher Collins Syndrome: a clinical and molecular study based on a large series of patients* | Vincent et.al
-06-01-2022| *Treacher Collins Syndrome: a clinical and molecular study based on a large series of patients* | Vincent et.al
+Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
+:---: | :---: | :--- | :---
+08-06-2022 & 10-06-2022 | *June Meetup* | Dr. Caleb Kibet, Pauline Karega, Ruth Nanjala | 
+01-07-2022| *My Science Journey Seminar* | Collins Moringa, Biigba Bright, Winfred Gatua | Ruth Nanjala
+08-07-2022| *My Science Journey Seminar* | Collins Moringa, Biigba Bright, Winfred Gatua | Ruth Nanjala
 
 ---
 

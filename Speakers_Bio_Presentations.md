@@ -6,6 +6,7 @@ Speakers Bio and Presentations
 ---
 Name | Biography | Image | Presentation 
 :---: | :---: | :--- | :--- 
+
 *Collins Mosita Moringa * | Mr. Collins Misita Morang’a is a Bioinformatics Scientist at WACCBIP. He was a PhD research fellow at WACCBIP, funded by the Wellcome Trust DELTAS Programme at the University of Ghana. He finished his studies in Biochemistry from Egerton University and obtained his Master of Science Degree in Molecular Biology from Maseno University in Kenya. In his Ph.D., he is interested in using artificial intelligence approaches to classify the malaria infections, as well as deconvolution of transcriptomics and genomics data from asymptomatic and clinical malaria individuals. The secondary focus of his Ph.D. research is to identify regulatory mechanisms that dampen the activation of the Type I interferon pathway by sensing Plasmodium DNA during malaria infections. The regulation checkpoints can provide opportunities for therapeutic interventions against clinical malaria. | | 
 
 *Biigba Bright* | Biigba Bright is my name. PhD Biodata analytics and computational Genomics. My research area is on Biogeographical ancestry, GWAS and Polygenic Risk scores. My MPhil work focused comparative Genomics of Helicobacter pylori. First degrees were in B.Sc Agric economics and Bachelor of Education. I have worked with USAID for 2 years as  consultant and also taught as a teacher before. | | 

@@ -1,15 +1,8 @@
-# Mentorship_Program
-
-Date (MM-DD-YYYY)| Speaker | Biography | Presentation_link | Recording
-:---: | :---: | :--- | :--- | :--- | :---
-01-06-2022| ** |  | | []()| 
-
 
 # Mentorship_Program
 ---
 
-
-Journal Club Updates
+Schedule
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 :---: | :---: | :--- | :--- | :--- | :---

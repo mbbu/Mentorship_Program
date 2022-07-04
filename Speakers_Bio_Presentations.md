@@ -1,3 +1,9 @@
+# MBBU Journal Club
+---
+It is each presenter's responsibility to update the schedule below and update this repository with information regarding articles being reviewed. This means everyone in the lab should have this repository forked and upto date.
+
+Journal Club Updates
+
 ---
 Date (MM-DD-YYYY)| Speaker | Biography | Presentation | Image
 :---: | :---: | :--- | :--- | :--- 

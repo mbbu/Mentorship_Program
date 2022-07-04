@@ -9,9 +9,9 @@ We will be holding quarterly meetings and if need be monthly meetings to catch u
 
 Schedule
 ---
-Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
-:---: | :---: | :--- | :--- | :--- | :---
-06-01-2022| *Treacher Collins Syndrome: a clinical and molecular study based on a large series of patients* | Vincent et.al | Joyce Wangari | [paper](https://www.nature.com/articles/gim201529)| [presentation link](https://docs.google.com/presentation/d/104IYYWu3AaH6LTka9aOL0Ayg4m5_N1EK/edit#slide=id.p1)
+Date (MM-DD-YYYY)| Presentation | Speaker(s)
+:---: | :---: | :--- 
+06-01-2022| *Treacher Collins Syndrome: a clinical and molecular study based on a large series of patients* | Vincent et.al
 
 ---
 

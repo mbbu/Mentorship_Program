@@ -20,6 +20,7 @@
 - Parcelli Jepchirchir (Human genetics)
 - Oscar Mwaura (Plant genomics)                                                                                                                                        - Sharon Watiri (Human genetics)
 - Joyce Wangari (Human genetics)
+- Collins Kigen (Bacterial genomics - Antimicrobial resistance)
 
 ## Group 4- RNA seq
 - Hebrew Simeon

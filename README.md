@@ -31,10 +31,9 @@ Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 ---
 
 ### Useful Scholarship resources
----
-Links |
-:---: |
-1. [Best graduate schools](https://www.usnews.com/best-graduate-schools) |
+Links 
+:---
+1. [Best graduate schools](https://www.usnews.com/best-graduate-schools) 
 2. [Find a PhD](https://www.findaphd.com/) |
 3. [Opportunities for Africans](https://www.opportunitiesforafricans.com/)
 4. [Scholarships for Development](https://www.scholars4dev.com/)

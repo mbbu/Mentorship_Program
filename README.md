@@ -38,7 +38,7 @@ Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 7. [Chevening](https://www.chevening.org/scholarships/application-timeline/)
 8. [Commonwealth](https://www.ucl.ac.uk/scholarships/commonwealth-shared-scholarship-scheme)
 9. [Liverpool school](https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/masters-funding)
-10.[Canadian Universities](https://opportunitydesk.info/masters-scholarships-in-canada/)
+10. [Canadian Universities](https://opportunitydesk.info/masters-scholarships-in-canada/)
 11. [Opportunitiespedia](https://opportunitiespedia.com/british-council-scholarships-2022-23-without-ielts-fully-funded/)
 12. [Canada & Roman](https://greatyop.com/fully-funded-scholarships-for-international-students/)
 13. [Canada](https://mccallmacbainscholars.org)

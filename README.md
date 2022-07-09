@@ -25,6 +25,9 @@ Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 ### Find the meeting link [here](https://teams.microsoft.com/l/meetup-join/19%3a6887c23962c248a89124009c0cef2fe9%40thread.tacv2/1634224213244?context=%7b%22Tid%22%3a%22a4e98fb5-57d9-4b97-b7b2-60ab87e9a234%22%2c%22Oid%22%3a%226c8af0b1-c61b-49ce-9ee9-2dbbcb9d6bed%22%7d)
 
 ### Useful Scholarship resources
+---
+Links
+:---:
 1. [Best graduate schools](https://www.usnews.com/best-graduate-schools)
 2. [Find a PhD](https://www.findaphd.com/)
 3. [Opportunities for Africans](https://www.opportunitiesforafricans.com/)
@@ -41,7 +44,9 @@ Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 14. [Ireland](https://www.irishaidfellowships.ie/strands/ireland-fellows-programme-africa)
 15. [Australia](https://opportunitiespedia.com/university-of-south-australia-scholarships/)
 
-**Feel free to add to the list by forking this repo, making changes and adding a pull request**
+---
+
+_**Feel free to add to the list by forking this repo, making changes and adding a pull request**_
 
 
 

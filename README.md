@@ -44,16 +44,6 @@ Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 13. [Canada](https://mccallmacbainscholars.org)
 14. [Ireland](https://www.irishaidfellowships.ie/strands/ireland-fellows-programme-africa)
 15. [Australia](https://opportunitiespedia.com/university-of-south-australia-scholarships/)
-16. [Academic Transfer] (https://www.academictransfer.com/en/jobs/)
-18. [Scholarship DB](https://scholarshipdb.net/)
-19. [Agristok] (https://agristok.blogspot.com
-
-### Established PhD Studentship Programs
-1. [Vienna Biocenter] (https://www.viennabiocenter.org/)
-2. [IISA] (https://phd.pages.ist.ac.at/funding-and-awards/)
-3. [Igrad] (https://www.igrad-plant.hhu.de/)
-4. [Midlands Integrative Biosciences Training Partnership] (https://warwick.ac.uk/fac/cross_fac/mibtp/about_mibtp/)
-5. 
 
 _**Feel free to add to the list by forking this repo, making changes and adding a pull request**_
 

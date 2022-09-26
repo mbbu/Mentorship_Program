@@ -46,7 +46,7 @@ Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 15. [Australia](https://opportunitiespedia.com/university-of-south-australia-scholarships/)
 16. [Academic Transfer](https://www.academictransfer.com/en/jobs/)
 18. [Scholarship DB](https://scholarshipdb.net/)
-19. [Agristok](https://agristok.blogspot.com
+19. [Agristok](https://agristok.blogspot.com)
 
 ### Established PhD Studentship Programs
 1. [Vienna Biocenter](https://www.viennabiocenter.org/)

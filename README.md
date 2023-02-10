@@ -27,6 +27,7 @@ Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 01-07-2022| *My Science Journey Webinar* | Collins Moringa, Biigba Bright, Winfred Gatua | Ruth Nanjala
 08-07-2022| *My Science Journey Webinar* | Toheeb Balogun, Ayomide Mary, Alfred Ssekagiri,  Dr. Ovokeraye Oduaran | Ruth Nanjala
 26-08-2022| *My Science Journey Webinar* | Rispah Ng'ang'a, Dominic S. Y. Amuzu | Ruth Nanjala
+25-11-2022| *My Science Journey Webinar* | Eric Gachirwa | Nehemiah Ongeso
 ---
 
 

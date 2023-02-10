@@ -13,20 +13,19 @@ Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 :---: | :---: | :--- | :---
 10-02-2023 | *My Science Journey Webinar* | Bernice N. Waweru, Segun Afolaranmi | Ruth Nanjala
 -03-2023| *My Science Journey Webinar* | TBC | Nehemiah Ongeso
--04-2023| *My Science Journey Webinar* | TBC | Ruth Nanjala
+-04-2023| *My Science Journey Webinar* | Opeoluwa Adewale Fasoro | Ruth Nanjala
 -05-2023 | *My Science Journey Webinar* | TBC | Nehemiah Ongeso
 
 ---
 ---
 
-Schedule
+2022 Schedule
 ---
 Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 :---: | :---: | :--- | :---
 08-06-2022 & 10-06-2022 | *June Meetup* | Dr. Caleb Kibet, Pauline Karega, Ruth Nanjala | 
 01-07-2022| *My Science Journey Seminar* | Collins Moringa, Biigba Bright, Winfred Gatua | Ruth Nanjala
 08-07-2022| *My Science Journey Seminar* | Toheeb Balogun, Ayomide Mary, Alfred Ssekagiri,  Dr. Ovokeraye Oduaran | Ruth Nanjala
-26-08-2022 | *August Meetup* | |
 
 ---
 

@@ -7,6 +7,18 @@ We will be holding quarterly meetings and if need be monthly meetings to catch u
 
 ---
 
+2023 Schedule
+---
+Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
+:---: | :---: | :--- | :---
+10-02-2023 | *My Science Journey Webinar* | Bernice N. Waweru, Segun Afolaranmi | Ruth Nanjala
+-03-2023| *My Science Journey Webinar* | TBC | Nehemiah Ongeso
+-04-2023| *My Science Journey Webinar* | TBC | Ruth Nanjala
+-05-2023 | *My Science Journey Webinar* | TBC | Nehemiah Ongeso
+
+---
+---
+
 Schedule
 ---
 Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
@@ -17,6 +29,8 @@ Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 26-08-2022 | *August Meetup* | |
 
 ---
+
+
 
 ### Peer Mentorship Groups can be accessed on the following [link](https://github.com/mbbu/Mentorship_Program/blob/main/Peer-Mentorship-Groups.md)
 

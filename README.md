@@ -13,7 +13,7 @@ Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 :---: | :---: | :--- | :---
 10-02-2023 | *My Science Journey Webinar* | Bernice N. Waweru, Segun Afolaranmi | Ruth Nanjala
 -03-2023| *My Science Journey Webinar* | TBC | Nehemiah Ongeso
-14-04-2023| *My Science Journey Webinar* | Opeoluwa Adewale Fasoro | Ruth Nanjala
+14-04-2023| *My Science Journey Webinar* | Opeoluwa Adewale Fasoro, Gladys Ng'etich | Ruth Nanjala
 -05-2023 | *My Science Journey Webinar* | TBC | Nehemiah Ongeso
 
 ---

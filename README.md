@@ -12,7 +12,7 @@ We will be holding quarterly meetings and if need be monthly meetings to catch u
 Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 :---: | :---: | :--- | :---
 10-02-2023 | *My Science Journey Webinar* | Bernice N. Waweru, Segun Afolaranmi | Ruth Nanjala
--03-2023| *My Science Journey Webinar* | TBC | Nehemiah Ongeso
+24-03-2023| *My Science Journey Webinar* | Deborah Gbala | Ruth Nanjala
 14-04-2023| *My Science Journey Webinar* | Opeoluwa Adewale Fasoro, Gladys Ng'etich | Ruth Nanjala
 -05-2023 | *My Science Journey Webinar* | TBC | Nehemiah Ongeso
 

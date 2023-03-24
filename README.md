@@ -9,13 +9,28 @@ We will be holding quarterly meetings and if need be monthly meetings to catch u
 
 2023 Schedule
 ---
-Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
-:---: | :---: | :--- | :---
-10-02-2023 | *My Science Journey Webinar* | Bernice N. Waweru, Segun Afolaranmi | Ruth Nanjala
-24-03-2023| *My Science Journey Webinar* | Deborah Gbala | Ruth Nanjala
-14-04-2023| *My Science Journey Webinar* | Opeoluwa Adewale Fasoro, Gladys Ng'etich | Ruth Nanjala
-28-04-2023| *My Science Journey Webinar* | Opeoluwa Adewale Fasoro, Gladys Ng'etich | Ruth Nanjala
--05-2023 | *My Science Journey Webinar* | TBC | Nehemiah Ongeso
+Date (MM-DD-YYYY)| Presentation | Speaker(s) 
+:---: | :---: | :---
+10-02-2023 | *My Science Journey Webinar* | Bernice N. Waweru, Segun Afolaranmi 
+24-03-2023| *My Science Journey Webinar* | Deborah Gbala 
+14-04-2023| *My Science Journey Webinar* | Opeoluwa Adewale Fasoro 
+28-04-2023| *My Science Journey Webinar* | Gladys Ng'etich 
+12-05-2023| *My Science Journey Webinar* | Fredrick Mobegi
+26-05-2023| *My Science Journey Webinar* | Faith Kivunga
+16-06-2023| *My Science Journey Webinar* | Musalula Sinkala
+30-06-2023| *My Science Journey Webinar* | Tinashe Chikowore
+14-07-2023| *My Science Journey Webinar* | Michelle Bishop
+28-07-2023| *My Science Journey Webinar* | Caleb Kibet
+11-08-2023| *My Science Journey Webinar* | James San
+25-08-2023| *My Science Journey Webinar* | Opeoluwa 
+15-09-2023| *My Science Journey Webinar* | Chisom 
+29-09-2023| *My Science Journey Webinar* | Segun Fatumo
+13-10-2023| *My Science Journey Webinar* | Roseline Macharia
+27-10-2023| *My Science Journey Webinar* | Festus Nyasimi
+10-11-2023| *My Science Journey Webinar* | Mike Landi
+24-11-2023| *My Science Journey Webinar* | 
+08-12-2023| *My Science Journey Webinar* | 
+
 
 ---
 ---

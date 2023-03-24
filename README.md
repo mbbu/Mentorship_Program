@@ -9,9 +9,9 @@ We will be holding quarterly meetings and if need be monthly meetings to catch u
 
 2023 Schedule
 ---
-Date (MM-DD-YYYY)| Title
+Date (MM-DD-YYYY)| Name | Title
 :---: | :---: | :---
-10-02-2023 |Bernice N. Waweru, Segun Afolaranmi |  
+10-02-2023 | Bernice N. Waweru, Segun Afolaranmi |  
 24-03-2023| Ifeoluwa Deborah Gbala | WE-STAR Post doctoral fellow
 14-04-2023| Opeoluwa Adewale Fasoro |  
 28-04-2023| Gladys Ng'etich  | 

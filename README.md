@@ -15,7 +15,7 @@ Date (MM-DD-YYYY)| Name | Title
 24-03-2023| Ifeoluwa Deborah Gbala | WE-STAR Post doctoral fellow
 14-04-2023| Opeoluwa Adewale Fasoro |  
 28-04-2023| Gladys Ng'etich  | 
-12-05-2023| Fredrick Mobegi | 
+9-05-2023| Fredrick Mobegi | 
 26-05-2023| Faith Kivunga | 
 16-06-2023| Musalula Sinkala | 
 30-06-2023| Tinashe Chikowore | 

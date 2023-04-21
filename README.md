@@ -16,7 +16,7 @@ Date (MM-DD-YYYY)| Name | Title
 14-04-2023| Opeoluwa Adewale Fasoro |  
 28-04-2023| Gladys Ng'etich  | 
 9-05-2023| Fredrick Mobegi | 
-26-05-2023| Faith Kivunga | 
+26-05-2023| Caleb Kibet | 
 16-06-2023| Musalula Sinkala | 
 30-06-2023| Tinashe Chikowore | 
 14-07-2023| Michelle Bishop | 

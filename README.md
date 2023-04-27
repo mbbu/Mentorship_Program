@@ -17,10 +17,10 @@ Date (MM-DD-YYYY)| Name | Title
 28-04-2023| Gladys Ng'etich  | 
 9-05-2023| Fredrick Mobegi | 
 26-05-2023| Caleb Kibet | 
-16-06-2023| Musalula Sinkala | 
+16-06-2023| Michelle Bishop | 
 30-06-2023| Tinashe Chikowore | 
-14-07-2023| Michelle Bishop | 
-28-07-2023| Caleb Kibet | 
+14-07-2023| Maryanne Favor | 
+28-07-2023| Musalula Sinkala | 
 11-08-2023| James San | 
 25-08-2023| Opeyemi Soremekun | 
 15-09-2023| Chisom  | 
@@ -29,7 +29,7 @@ Date (MM-DD-YYYY)| Name | Title
 27-10-2023| Festus Nyasimi | 
 10-11-2023|  Mike Landi |
 24-11-2023| Anne Makena | 
-08-12-2023|  | 
+08-12-2023| Musalula Sinkala | 
 
 ---
 ---

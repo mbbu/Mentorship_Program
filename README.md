@@ -19,6 +19,7 @@ Date (MM-DD-YYYY)| Name | Title
 26-05-2023| Caleb Kibet | 
 16-06-2023| Michelle Bishop | 
 30-06-2023| Tinashe Chikowore | 
+||
 14-07-2023| Shadrack Mutuku | 
 28-07-2023| Gerald Mboowa | 
 11-08-2023| James San | 

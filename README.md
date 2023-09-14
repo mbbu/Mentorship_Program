@@ -20,17 +20,20 @@ Date (MM-DD-YYYY)| Name | Title
 16-06-2023| Michelle Bishop | 
 30-06-2023| Tinashe Chikowore | 
 ||
-14-07-2023| Shadrack Mutuku | 
-28-07-2023| Gerald Mboowa | 
-11-08-2023| James San | 
-25-08-2023| Opeyemi Soremekun | 
-15-09-2023| Maryanne Favor | 
-29-09-2023| Segun Fatumo | 
-13-10-2023| Roseline Macharia | 
+||
+06-10-2023| Gerald Mboowa | 
+20-10-2023| James San | 
+03-11-2023| Opeyemi Soremekun | 
+03-11-2023| Maryanne Favor | 
+17-11-2023| Segun Fatumo | 
+01-12-2023| Roseline Macharia | 
+||
+||
 27-10-2023| Festus Nyasimi | 
 10-11-2023|  Mike Landi |
 24-11-2023| Anne Makena | 
-08-12-2023| Musalula Sinkala | 
+08-12-2023|  | 
+14-07-2023| Shadrack Mutuku | 
 
 ---
 ---

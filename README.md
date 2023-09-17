@@ -22,17 +22,16 @@ Date (MM-DD-YYYY)| Name | Title
 ||
 ||
 06-10-2023| Gerald Mboowa | 
-20-10-2023| James San | 
-03-11-2023| Opeyemi Soremekun | 
-03-11-2023| Maryanne Favor | 
-17-11-2023| Segun Fatumo | 
-01-12-2023| Roseline Macharia | 
+19-10-2023| Jolynne Mokaya | 
+03-11-2023| James San | 
+17-11-2023| Shadrack Muli | 
+01-12-2023| Chisom | 
 ||
 ||
-27-10-2023| Festus Nyasimi | 
-10-11-2023|  Mike Landi |
+27-10-2023|  Segun Fatumo; Maryanne Favor; Festus Nyasimi | 
+10-11-2023|  Roseline Macharia; Mike Landi |
 24-11-2023| Anne Makena | 
-08-12-2023|  | 
+08-12-2023| Opeyemi Soremekun | 
 14-07-2023| Shadrack Mutuku | 
 
 ---

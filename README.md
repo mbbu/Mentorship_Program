@@ -81,6 +81,7 @@ Date (MM-DD-YYYY)| Presentation | Speaker(s) | Moderator
 19. [Agristok](https://agristok.blogspot.com)
 20. [Begenomics](http://www.begenomics.com/phdscholarship/)
 21. [Jobs and PhDs in UK](https://www.jobs.ac.uk/)
+22. [French and Canadian Universities](https://www.mastere.tn)
 
 ### Established PhD Studentship Programs
 1. [Vienna Biocenter](https://www.viennabiocenter.org/)

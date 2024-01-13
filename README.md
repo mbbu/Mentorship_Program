@@ -6,18 +6,6 @@ In an effort to provide high-quality personalized mentoring to the ICIPE Bioinfo
 We will be holding quarterly meetings and if need be monthly meetings to catch up and offer assistance. We will also invite third party individuals who have secured Masters/PhDs/Jobs within and outside the country to share their journey and offer guidance on their application experiences.
 
 ---
-
-2024 Schedule
----
-Date (MM-DD-YYYY)| Name | Title
-:---: | :---: | :---
-05-01-2024 | Prof Segun Fatumo |
-19-01-2024 | Dr. Shadrack M. Mutuku |
-||
-||
-
-
----
 ---
 
 2023 Schedule

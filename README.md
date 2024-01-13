@@ -7,6 +7,19 @@ We will be holding quarterly meetings and if need be monthly meetings to catch u
 
 ---
 
+2024 Schedule
+---
+Date (MM-DD-YYYY)| Name | Title
+:---: | :---: | :---
+05-01-2024 | Prof Segun Fatumo |
+19-01-2024 | Dr. Shadrack M. Mutuku |
+||
+||
+
+
+---
+---
+
 2023 Schedule
 ---
 Date (MM-DD-YYYY)| Name | Title
